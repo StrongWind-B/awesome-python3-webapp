@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-#��ѩ��python�̳�web appʵս
+#廖雪峰python教程Web App实战
